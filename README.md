@@ -1,2 +1,2 @@
 # YouTube-Download-Manager for Linux distros
-Make sure your Linux distro can handle apt
+Make sure you're running this shell with 'sh'
